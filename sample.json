@@ -1,0 +1,160 @@
+{
+    "partOfSpeech": "ADJ",
+    "principalParts": [
+      "intut",
+      "intut"
+    ],
+    "definition": "defenseless; unsafe;\r",
+    "info": "X X X D X",
+    "subtype": "1 1 POS",
+    "type": "ADJ 1 1"
+  },
+  {
+    "partOfSpeech": "N",
+    "principalParts": [
+      "inul",
+      "inul"
+    ],
+    "definition": "plant elecampane;\r",
+    "info": "X A X E C",
+    "subtype": "1 1 F T",
+    "type": "N 1 1"
+  },
+  {
+    "partOfSpeech": "ADJ",
+    "principalParts": [
+      "inult",
+      "inult"
+    ],
+    "definition": "unpunished, scot-free; acting with impunity; having no recompense, unavenged;\r",
+    "info": "X X X B O",
+    "subtype": "1 1 POS",
+    "type": "ADJ 1 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inumbr",
+      "inumbr",
+      "inumbrav",
+      "inumbrat"
+    ],
+    "definition": "cast a shadow;\r",
+    "info": "X X X D X",
+    "subtype": "1 1 X",
+    "type": "V 1 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inund",
+      "inund",
+      "inundav",
+      "inundat"
+    ],
+    "definition": "overflow, inundate, flood; swarm;\r",
+    "info": "X X X D X",
+    "subtype": "1 1 X",
+    "type": "V 1 1"
+  },
+  {
+    "partOfSpeech": "N",
+    "principalParts": [
+      "inundatio",
+      "inundation"
+    ],
+    "definition": "flood;\r",
+    "info": "X X X D X",
+    "subtype": "3 1 F T",
+    "type": "N 3 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inung",
+      "inung",
+      "inunx",
+      "inunct"
+    ],
+    "definition": "anoint (with); cover (food w/dressing); rub in (medicaments);\r",
+    "info": "X X X D O",
+    "subtype": "3 1 TRANS",
+    "type": "V 3 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inungu",
+      "inungu",
+      "inunx",
+      "inunct"
+    ],
+    "definition": "anoint (with); cover (food w/dressing); rub in (medicaments);\r",
+    "info": "X X X D O",
+    "subtype": "3 1 TRANS",
+    "type": "V 3 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inur",
+      "inur",
+      "inuss",
+      "inust"
+    ],
+    "definition": "burn, scorch; burn (off/away/hole); cauterize; curl (hair w/hot tongs); tinge;\r",
+    "info": "X X X B O",
+    "subtype": "3 1 TRANS",
+    "type": "V 3 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inur",
+      "inur",
+      "inuss",
+      "inust"
+    ],
+    "definition": "|burn in (w/hot iron), make imprint by burning; brand/impress (on/with); stamp;\r",
+    "info": "X X X B O",
+    "subtype": "3 1 TRANS",
+    "type": "V 3 1"
+  },
+  {
+    "partOfSpeech": "V",
+    "principalParts": [
+      "inur",
+      "inur",
+      "inuss",
+      "inust"
+    ],
+    "definition": "||impress indelibly; impose unalterably; paint by encaustic method;\r",
+    "info": "X X X B O",
+    "subtype": "3 1 TRANS",
+    "type": "V 3 1"
+  },
+  {
+    "partOfSpeech": "ADJ",
+    "principalParts": [
+      "inurban",
+      "inurban"
+    ],
+    "definition": "rustic, boorish, dull;\r",
+    "info": "X X X D X",
+    "subtype": "1 1 POS",
+    "type": "ADJ 1 1"
+  },
+  {
+    "partOfSpeech": "ADJ",
+    "principalParts": [
+      "inusitat",
+      "inusitat",
+      "inusitati",
+      "inusitatissi"
+    ],
+    "definition": "unusual, uncommon; strange, unfamiliar; unwonted;\r",
+    "info": "X X X C O",
+    "subtype": "1 1 X",
+    "type": "ADJ 1 1"
+  }
+  ]
